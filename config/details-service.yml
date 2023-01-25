@@ -1,0 +1,5 @@
+data:
+  env: details-service
+  user:
+    username: eureka-client-user
+    password: 123456
